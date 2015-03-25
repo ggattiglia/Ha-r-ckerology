@@ -1,5 +1,6 @@
 # Ha-r-ckerology
 Information for participant in Ha(r)ckeology CAA workshop
+
 Download and install the following application/software:
 
 OpenRefine 2.6 https://github.com/OpenRefine/OpenRefine/releases
