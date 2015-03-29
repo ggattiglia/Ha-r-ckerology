@@ -3,9 +3,9 @@ Information for participant in Ha(r)ckeology CAA workshop
 
 Download and install the following application/software:
 
-OpenRefine 2.6 https://github.com/OpenRefine/OpenRefine/releases
+OpenRefine 2.6 https://github.com/OpenRefine/OpenRefine/releases (you can find OpenRefine in a .zip foder in this repository)
 
-Tabula https://github.com/tabulapdf/tabula
+Tabula https://github.com/tabulapdf/tabula (you can find tabula in a .zip folder  in this repository)
 
 jEdit http://www.jedit.org/ 
 
